@@ -25,5 +25,8 @@ The dashboard includes metrics and insights for each business group (AGRI, Culin
 
 
 ## 🖼 Dashboard Preview
+-<a href = "https://github.com/amitabhkarn/Weekly-On-Hold-Invoices-Dashboard/blob/main/Summary.png">Summary</a>
+-<a href = "https://github.com/amitabhkarn/Weekly-On-Hold-Invoices-Dashboard/blob/main/Volume%20Summary.png">Volume_Summary</a>
+-<a href = "https://github.com/amitabhkarn/Weekly-On-Hold-Invoices-Dashboard/blob/main/Issue%20Category.png">Issue_Category</a>
 
 <a href = "https://github.com/amitabhkarn/Weekly-On-Hold-Invoices-Dashboard/blob/main/On-Hold%20Invoices_Dashboard.pptx">Dashboard_PPT</a>
