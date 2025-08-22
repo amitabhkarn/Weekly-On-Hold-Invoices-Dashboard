@@ -5,7 +5,7 @@ This project demonstrates an **On Hold Invoices Dashboard** built in **Power BI*
 The new dashboard provides **accurate, automated, and visually engaging insights**, enabling stakeholders to monitor on-hold invoices efficiently.  
 
 ## 🛠 Data Sources
-
+-<a href = "https://github.com/amitabhkarn/Weekly-On-Hold-Invoices-Dashboard/blob/main/On_Hold%20Invoices_RawData.xlsx">Raw_Data</a>
 
 ## 📈 Key Visuals
 The dashboard includes metrics and insights for each business group (AGRI, Culinary, Oils & Fats, PPTC, S&D):  
@@ -25,3 +25,5 @@ The dashboard includes metrics and insights for each business group (AGRI, Culin
 
 
 ## 🖼 Dashboard Preview
+
+<a href = "https://github.com/amitabhkarn/Weekly-On-Hold-Invoices-Dashboard/blob/main/On-Hold%20Invoices_Dashboard.pptx">Dashboard_PPT</a>
